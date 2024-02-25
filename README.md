@@ -1,5 +1,3 @@
-# CISC361 Project 2
-
 
 
 ## Getting started
